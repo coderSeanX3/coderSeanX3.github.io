@@ -1,9 +1,9 @@
 h1 {
-            font-family: Papyrus, fantasy;
+            font-family: Papyrus, fantasy font-weight: 700;;
         } 
 p {
             
-            font-family: Papyrus, fantasy;
+            font-family: Papyrus, fantasy font-weight: 400;;
         }
 body {
             background-color: rgb(0, 232, 15);

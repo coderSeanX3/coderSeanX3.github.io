@@ -10,10 +10,10 @@ body {
         }
 
 table {
-            margin-left: 30px
+            margin-left: 30px;
         }
-tr {
-            margin-left: 80px
+th {
+            margin-left: 80px; text-align: center;
         }
 
 .center {

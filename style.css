@@ -8,6 +8,11 @@ p {
 body {
             background-color: rgb(77, 125, 75);
         }
+
+table {
+            margin-left: 30px
+        }
+
 .center {
             display: block;
             margin-left: auto;

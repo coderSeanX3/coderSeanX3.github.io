@@ -43,6 +43,11 @@ table {
         }
 th {
             width: 200px; text-align: center;
+}
+
+td {
+            margin-left: 100px;
+}
 
 img {
            position: relative;

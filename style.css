@@ -23,12 +23,12 @@
 
 h1 {
             font-family: Papyrus, fantasy; font-weight: 700;
-            padding: 30px;
+            margin-left: 10px;
 } 
 p {
            
             font-family: Papyrus, fantasy; font-weight: 400;
-            padding: 30px;
+            margin-left: 10px;
 }
 body {
             background-color: rgb(77, 125, 75);

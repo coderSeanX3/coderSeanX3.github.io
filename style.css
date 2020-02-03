@@ -11,7 +11,7 @@
                 position: absolute;
                 z-index: -1;
                 background-color: rgb(60, 97, 58);
-                        
+                overflow: auto;
             }
 
             #left {

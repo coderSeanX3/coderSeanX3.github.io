@@ -39,7 +39,6 @@ img {
                 position: absolute;
                 z-index: -20;
                 background-color: rgb(60, 97, 58);
-                overflow: auto;
             }
 
             #left {

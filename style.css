@@ -30,13 +30,13 @@ img {
                 height: 100%;
                 position: absolute;
                 z-index: -20;
-                background-color: rgb(0, 0, 0);
+                background-color: rgb(60, 97, 58);
             }
 
             #left {
-                float: left;
+                left:0;
             }
 
             #right {
-                float: right;
+                right:0;
             }

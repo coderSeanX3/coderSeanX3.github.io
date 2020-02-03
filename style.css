@@ -7,6 +7,12 @@ p {
         }
 body {
             background-color: rgb(77, 125, 75);
+            border-style: solid;
+            border-left-width: 60px;
+            border-right-width: 60px;
+            border-top-width:0;
+            border-bottom-width: 0;
+            bordercolor: coral;
         }
 
 table {

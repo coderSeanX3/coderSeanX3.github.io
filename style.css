@@ -27,7 +27,7 @@ img {
             width: 60%;
         } 
             #left, #right {
-                width: 22%;
+                width: 20.5%;
                 height: 100%;
                 position: absolute;
                 z-index: -20;

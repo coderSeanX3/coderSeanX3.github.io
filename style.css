@@ -33,18 +33,4 @@ img {
             margin-right: auto;
             width: 60%;
         } 
-            #left, #right {
-                width: 20.38%;
-                height: 100%;
-                position: absolute;
-                z-index: -1;
-                background-color: rgb(60, 97, 58);
-            }
 
-            #left {
-                left:0;
-            }
-
-            #right {
-                right:0;
-            }

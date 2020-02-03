@@ -11,6 +11,9 @@ body {
             background-color: rgb(77, 125, 75);
             margin-top: 0; padding-top: 0; border-top: 0;
         }
+#paint{
+            background-image: url("myBackground.jpg");
+        }
 
 table {
             margin-left: 10px;

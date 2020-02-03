@@ -15,7 +15,9 @@ table {
 th {
             width: 200px; text-align: center;
         }
-
+img {
+           z-index: 0; 
+        }
 .center {
             display: block;
             margin-left: auto;

@@ -45,10 +45,6 @@ th {
             width: 200px; text-align: center;
 }
 
-td {
-            margin-left: 100px;
-}
-
 img {
            position: relative;
            z-index: 0; 

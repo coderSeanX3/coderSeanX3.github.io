@@ -20,6 +20,8 @@ table {
         }
 th {
             width: 200px; text-align: center;
+td {
+            width: 400px; text-align: center;
         }
 img {
            position: relative;

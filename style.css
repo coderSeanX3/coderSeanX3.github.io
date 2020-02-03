@@ -27,14 +27,13 @@ th {
                 height: 100%;
                 position: absolute;
                 z-index: -10;
+                background-color: rgb(11, 54, 20);
             }
 
             #left {
                 left: 0;
-                background-color: navy;
             }
 
             #right {
                 right: 0;
-                background-color: maroon;
             }

@@ -24,29 +24,33 @@
 h1 {
             font-family: Papyrus, fantasy; font-weight: 700;
             padding: 30px;
-        } 
+} 
 p {
            
             font-family: Papyrus, fantasy; font-weight: 400;
             padding: 30px;
-        }
+}
 body {
             background-color: rgb(77, 125, 75);
             margin-top: 0; padding-top: 0; border-top: 0;
-        }
+}
 #paint{
             background-image: url("myBackground2.jpg");
-        }
+}
 
 table {
             margin-left: 10px;
-        }
+}
 th {
             width: 200px; text-align: center;
+}
+
+#photos {
+          width: 400px;  
 }
 
 img {
            position: relative;
            z-index: 0; 
-        }
+}
 

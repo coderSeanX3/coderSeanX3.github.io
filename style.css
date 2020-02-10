@@ -4,6 +4,9 @@
             margin-right: auto;
             width: 60%;
         } 
+.centerEmbed {
+ margin: 0 auto;           
+}
 
             #left, #right {
                 width: 20.38%;

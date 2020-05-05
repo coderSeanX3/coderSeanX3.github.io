@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Seansite - Final Project</title>
+        <link href="https://fonts.googleapis.com/css?family=Special+Elite&display=swap" rel="stylesheet">
+        <link rel="stylesheet" type="text/css" href="style.css">
+    </head>
+    <body id="paint">
+            <div id="left"></div>
+            <div id="right"></div>
+        <img class="center" src="myBanner.jpg" alt="Programming Portfolio Banner" width="650">
+<table class="center"> 
+    <thead>
+        <tr> 
+           <th> <a href="index.html"> <img src="home.png" alt="home button" width="80%"> </a>
+           <th> <a href="javascripts.html"> <img src="javascripts.png" alt="javascripts button" width="80%"> </a>
+           <th> <a href="apps.html"> <img src="apps.png" alt="apps button" width="80%"> </a>
+           <th> <a href="about.html"> <img src="about.png" alt="about button" width="80%"> </a>
+        </tr>
+    </thead>
+</table>
+        
+    <h1 class="center"> Paragraph </h1>
+        <p class="center"> Here you can put words! And I will!
+            
+            <table class="center"> 
+    <thead>
+        <tr> 
+           <th id="photos"> <img src="seanburt.jpg" alt="Picture of me" width="50%"> 
+           <th id="photos"> <img src="seanburt3.jpg" alt="Picture of me" width="50%"> 
+        </tr>
+        <tr> 
+           <th id="photos"> <img src="gaming.jpg" alt="Picture of me" width="50%"> 
+           <th id="photos"> <img src="solder.jpg" alt="Picture of me" width="50%">
+        </tr>
+    </thead>
+</table>
+    
+    </p>
+    </body>
+</html>
